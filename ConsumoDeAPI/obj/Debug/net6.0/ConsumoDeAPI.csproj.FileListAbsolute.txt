@@ -1,0 +1,17 @@
+D:\TreinamentoAvanade\ConsumoDeAPI\ConsumoDeAPI\bin\Debug\net6.0\ConsumoDeAPI.exe
+D:\TreinamentoAvanade\ConsumoDeAPI\ConsumoDeAPI\bin\Debug\net6.0\ConsumoDeAPI.deps.json
+D:\TreinamentoAvanade\ConsumoDeAPI\ConsumoDeAPI\bin\Debug\net6.0\ConsumoDeAPI.runtimeconfig.json
+D:\TreinamentoAvanade\ConsumoDeAPI\ConsumoDeAPI\bin\Debug\net6.0\ConsumoDeAPI.dll
+D:\TreinamentoAvanade\ConsumoDeAPI\ConsumoDeAPI\bin\Debug\net6.0\ref\ConsumoDeAPI.dll
+D:\TreinamentoAvanade\ConsumoDeAPI\ConsumoDeAPI\bin\Debug\net6.0\ConsumoDeAPI.pdb
+D:\TreinamentoAvanade\ConsumoDeAPI\ConsumoDeAPI\obj\Debug\net6.0\ConsumoDeAPI.csproj.AssemblyReference.cache
+D:\TreinamentoAvanade\ConsumoDeAPI\ConsumoDeAPI\obj\Debug\net6.0\ConsumoDeAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\TreinamentoAvanade\ConsumoDeAPI\ConsumoDeAPI\obj\Debug\net6.0\ConsumoDeAPI.AssemblyInfoInputs.cache
+D:\TreinamentoAvanade\ConsumoDeAPI\ConsumoDeAPI\obj\Debug\net6.0\ConsumoDeAPI.AssemblyInfo.cs
+D:\TreinamentoAvanade\ConsumoDeAPI\ConsumoDeAPI\obj\Debug\net6.0\ConsumoDeAPI.csproj.CoreCompileInputs.cache
+D:\TreinamentoAvanade\ConsumoDeAPI\ConsumoDeAPI\obj\Debug\net6.0\ConsumoDeAPI.dll
+D:\TreinamentoAvanade\ConsumoDeAPI\ConsumoDeAPI\obj\Debug\net6.0\ref\ConsumoDeAPI.dll
+D:\TreinamentoAvanade\ConsumoDeAPI\ConsumoDeAPI\obj\Debug\net6.0\ConsumoDeAPI.pdb
+D:\TreinamentoAvanade\ConsumoDeAPI\ConsumoDeAPI\obj\Debug\net6.0\ConsumoDeAPI.genruntimeconfig.cache
+D:\TreinamentoAvanade\ConsumoDeAPI\ConsumoDeAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\TreinamentoAvanade\ConsumoDeAPI\ConsumoDeAPI\obj\Debug\net6.0\ConsumoDeAPI.csproj.CopyComplete
